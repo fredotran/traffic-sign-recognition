@@ -25,11 +25,11 @@ The training set archive is structured as follows :
 
 The image format is structured as follows:
 
-*The images contain one traffic sign each.
-*Images contain a border of 10% around the actual traffic sign (cropped to at least 5 pixels) to allow for edge-based approaches.
-*They are stored in Picle format. (PPM format).
-*Images sizes vary from 15x15 to 250x250 and aren't necessarily squared.
-*Some of the traffic sign are not necessarily centered within the image. This is only valid for images that were close to the image border in the before-cropped image.*
+* The images contain one traffic sign each.
+* Images contain a border of 10% around the actual traffic sign (cropped to at least 5 pixels) to allow for edge-based approaches.
+* They are stored in Picle format. (PPM format).
+* Images sizes vary from 15x15 to 250x250 and aren't necessarily squared.
+* Some of the traffic sign are not necessarily centered within the image. This is only valid for images that were close to the image border in the before-cropped image.*
 
 The 43 different classes are :
 
