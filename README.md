@@ -9,9 +9,9 @@ _J. Stallkamp, M. Schlipsing, J. Salmen and C. Igel, "The German Traffic Sign Re
 
 This dataset consists in 43 classes of more than 50 000 images using for training, validation and test. The datasets are divided as follow :
 
-*34799 images for the training set.
-*4410 images for the validation set.
-*12630 images for the test set.*
+-34799 images for the training set.
+-4410 images for the validation set.
+-12630 images for the test set.*
 
 The images' shapes are (32, 32, 3).
 
