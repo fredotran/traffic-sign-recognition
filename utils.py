@@ -7,7 +7,7 @@ import os
 
 # this function will help up to load images and preprocess them before inputting them into our model for testing (they need to be in jpg or png)
 
-def get_imgs_from_folder(path, size=(32, 32), grayscale=False):
+def get_imgs(path, size=(32, 32), grayscale=False):
     """ Returns a list of images from a folder as a numpy array """
     img_list = [os.path.join(path,f) for f in os.listdir(path) if f.endswith(".jpg") or f.endswith(".png")]
     imgs = None 
