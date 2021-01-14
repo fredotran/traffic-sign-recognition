@@ -6,4 +6,4 @@ This folder contains a provided link to download data to train, validate and tes
 
 The images' shapes are (32, 32, 3).
 
-Link : https://drive.google.com/drive/folders/1cySw2PSG6irny-tKCPvPz2R9ScCRkxEO?usp=sharing
+Link : https://github.com/fredotran/traffic-sign-recognition/releases/download/1.0/traffic-signs-data.zip
