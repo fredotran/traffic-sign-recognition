@@ -15,9 +15,9 @@ For this work, you can find utilies functions in this [file](https://github.com/
 
 ## Dataset structure
 
-This dataset consists in 43 classes of more than 50 000 images using for training, validation and test. The labels are stored in the [signnames.csv](https://github.com/fredotran/traffic-sign-recognition/blob/main/signnames.csv) file.
+This dataset consists in 43 classes of more than 50 000 images using for training, validation and test, it can be found [here](https://github.com/fredotran/traffic-sign-recognition/releases/download/1.0/traffic-signs-data.zip). The labels are stored in the [signnames.csv](https://github.com/fredotran/traffic-sign-recognition/blob/main/signnames.csv) file.
 
-The datasets are divided as follow :
+The dataset are divided as follow :
 
 - 34799 images for **the training set**.
 - 4410 images for **the validation set**.
